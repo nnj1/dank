@@ -1,0 +1,22 @@
+---- vis / ericw-tools v0.18.1-32-g6660c5f ----
+fastvis = true
+running with 8 threads
+testlevel = 4
+LoadBSPFile: 'dank.bsp'
+BSP is version 29
+     6 leafs
+     6 portals
+Calculating Base Vis:
+0....1....2....3....4....5....6....7....8....9
+Calculating Full Vis:
+WARNING: Leaf portals saw into leaf (0)
+WARNING: Leaf portals saw into leaf (1)
+WARNING: Leaf portals saw into leaf (2)
+WARNING: Leaf portals saw into leaf (4)
+WARNING: Leaf portals saw into leaf (5)
+average leafs visible: 4
+c_noclip: 0
+c_chains: 0
+visdatasize:6  compressed from 6
+Writing dank.bsp as BSP version 29
+  0.6 seconds elapsed
