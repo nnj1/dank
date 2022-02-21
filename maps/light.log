@@ -9,32 +9,33 @@ basedir: C:/Program Files (x86)/GOG Galaxy/Games/DUSK/SDK/mnt/local/dank/ID1/
 qdir:    C:/Program Files (x86)/GOG Galaxy/Games/DUSK/SDK/mnt/local/dank/
 --- ConvertTextures ---
 --- LoadEntities ---
-14 entities read, 2 are lights.
+2 entities read, 0 are lights.
 --- OptionsSummary ---
+    "light" was set to "25" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	33 sky faces
-	32 solid faces
+	154 sky faces
+	6252 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 2 initial lights
-SetupLights: 2 after surface lights
-SetupLights: 2 after jittering
+SetupLights: 0 initial lights
+SetupLights: 0 after surface lights
+SetupLights: 0 after jittering
 --- EstimateLightVisibility ---
-0....1....2....3....4....5
-Final count: 2 lights, 0 suns in use.
+
+Final count: 0 lights, 0 suns in use.
 --- LightWorld ---
 --- LightThread ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 2745
+lightdatasize: 591733
 0 switchable light styles (32 max)
 Writing dank.bsp as BSP version 29
-0.690 seconds elapsed
+26.280 seconds elapsed
 
 stats:
-0.573015 lights tested, 0.573015 hits per sample point
+0.000000 lights tested, 0.000000 hits per sample point
 0.000000 surface lights tested, 0.000000 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
-0 empty lightmaps
+440 empty lightmaps
