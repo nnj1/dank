@@ -7,12 +7,6 @@
 "wad" "C:/Program Files (x86)/GOG Galaxy/Games/DUSK/SDK/mnt/local/dank/wads/dusk.wad;C:/Program Files (x86)/GOG Galaxy/Games/DUSK/SDK/mnt/local/dank/wads/dusk_transparent.wad"
 "light" "25"
 "message" "Dank"
-"sky_back" "textures/starfrost_bk.png"
-"sky_down" "textures/starfrost_dn.png"
-"sky_front" "textures/starfrost_ft.png"
-"sky_left" "textures/starfrost_lf.png"
-"sky_right" "textures/starfrost_rt.png"
-"sky_up" "textures/starfrost_up.png"
 // brush 0
 {
 ( -3088 -3072 1216 ) ( -3088 -3072 -976 ) ( -3088 3072 -976 ) skybox_sunset_l 0 0 0 1 1

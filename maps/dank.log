@@ -6,7 +6,7 @@ Output file: dank.bsp
 *** WARNING 06: No info_player_deathmatch entities in level
          5796 faces
          1158 brushes
-            3 entities
+            4 entities
             6 unique texnames
            18 texinfo
 
@@ -75,10 +75,10 @@ Wrote dank.bsp
          7291 marksurfaces      14582
         28215 surfedges        112860
         14110 edges             56440
-            6 textures        6968908
+            6 textures        1746508
               lightdata             0
               visdata               0
-              entdata             427
+              entdata             712
 
-13.711 seconds elapsed
-Peak memory usage: 42130842 (40.2M)
+6.955 seconds elapsed
+Peak memory usage: 42130938 (40.2M)

@@ -6,6 +6,7 @@ LoadBSPFile: 'dank.bsp'
 BSP is version 29
   1216 leafs
   3870 portals
+State file is out of date, will be overwritten
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
@@ -1230,4 +1231,4 @@ c_noclip: 0
 c_chains: 0
 visdatasize:178168  compressed from 184832
 Writing dank.bsp as BSP version 29
- 28.8 seconds elapsed
+ 18.4 seconds elapsed
