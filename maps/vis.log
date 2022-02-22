@@ -4,8 +4,8 @@ running with 8 threads
 testlevel = 4
 LoadBSPFile: 'dank.bsp'
 BSP is version 29
-  1216 leafs
-  3870 portals
+  1274 leafs
+  4104 portals
 State file is out of date, will be overwritten
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
@@ -1226,9 +1226,67 @@ WARNING: Leaf portals saw into leaf (1212)
 WARNING: Leaf portals saw into leaf (1213)
 WARNING: Leaf portals saw into leaf (1214)
 WARNING: Leaf portals saw into leaf (1215)
-average leafs visible: 945
+WARNING: Leaf portals saw into leaf (1216)
+WARNING: Leaf portals saw into leaf (1217)
+WARNING: Leaf portals saw into leaf (1218)
+WARNING: Leaf portals saw into leaf (1219)
+WARNING: Leaf portals saw into leaf (1220)
+WARNING: Leaf portals saw into leaf (1221)
+WARNING: Leaf portals saw into leaf (1222)
+WARNING: Leaf portals saw into leaf (1223)
+WARNING: Leaf portals saw into leaf (1224)
+WARNING: Leaf portals saw into leaf (1225)
+WARNING: Leaf portals saw into leaf (1226)
+WARNING: Leaf portals saw into leaf (1227)
+WARNING: Leaf portals saw into leaf (1228)
+WARNING: Leaf portals saw into leaf (1229)
+WARNING: Leaf portals saw into leaf (1230)
+WARNING: Leaf portals saw into leaf (1231)
+WARNING: Leaf portals saw into leaf (1232)
+WARNING: Leaf portals saw into leaf (1233)
+WARNING: Leaf portals saw into leaf (1234)
+WARNING: Leaf portals saw into leaf (1235)
+WARNING: Leaf portals saw into leaf (1236)
+WARNING: Leaf portals saw into leaf (1237)
+WARNING: Leaf portals saw into leaf (1238)
+WARNING: Leaf portals saw into leaf (1239)
+WARNING: Leaf portals saw into leaf (1240)
+WARNING: Leaf portals saw into leaf (1241)
+WARNING: Leaf portals saw into leaf (1242)
+WARNING: Leaf portals saw into leaf (1243)
+WARNING: Leaf portals saw into leaf (1244)
+WARNING: Leaf portals saw into leaf (1245)
+WARNING: Leaf portals saw into leaf (1246)
+WARNING: Leaf portals saw into leaf (1247)
+WARNING: Leaf portals saw into leaf (1248)
+WARNING: Leaf portals saw into leaf (1249)
+WARNING: Leaf portals saw into leaf (1250)
+WARNING: Leaf portals saw into leaf (1251)
+WARNING: Leaf portals saw into leaf (1252)
+WARNING: Leaf portals saw into leaf (1253)
+WARNING: Leaf portals saw into leaf (1254)
+WARNING: Leaf portals saw into leaf (1255)
+WARNING: Leaf portals saw into leaf (1256)
+WARNING: Leaf portals saw into leaf (1257)
+WARNING: Leaf portals saw into leaf (1258)
+WARNING: Leaf portals saw into leaf (1259)
+WARNING: Leaf portals saw into leaf (1260)
+WARNING: Leaf portals saw into leaf (1261)
+WARNING: Leaf portals saw into leaf (1262)
+WARNING: Leaf portals saw into leaf (1263)
+WARNING: Leaf portals saw into leaf (1264)
+WARNING: Leaf portals saw into leaf (1265)
+WARNING: Leaf portals saw into leaf (1266)
+WARNING: Leaf portals saw into leaf (1267)
+WARNING: Leaf portals saw into leaf (1268)
+WARNING: Leaf portals saw into leaf (1269)
+WARNING: Leaf portals saw into leaf (1270)
+WARNING: Leaf portals saw into leaf (1271)
+WARNING: Leaf portals saw into leaf (1272)
+WARNING: Leaf portals saw into leaf (1273)
+average leafs visible: 978
 c_noclip: 0
 c_chains: 0
-visdatasize:178168  compressed from 184832
+visdatasize:196777  compressed from 203840
 Writing dank.bsp as BSP version 29
- 18.4 seconds elapsed
+ 12.4 seconds elapsed
