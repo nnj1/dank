@@ -6,9 +6,9 @@ Output file: dank.bsp
 *** WARNING 06: No info_player_deathmatch entities in level
          5820 faces
          1159 brushes
-            9 entities
+           24 entities
             9 unique texnames
-           27 texinfo
+           30 texinfo
 
 Opened WAD: C:/Program Files (x86)/GOG Galaxy/Games/DUSK/SDK/mnt/local/dank/wads/dusk_transparent.wad
 Opened WAD: C:/Program Files (x86)/GOG Galaxy/Games/DUSK/SDK/mnt/local/dank/wads/id1.wad
@@ -21,45 +21,45 @@ Processing hull 0...
 ---- CSGFaces ----
          5820 brushfaces
          2754 csgfaces
-         1164 mergedfaces
+         1213 mergedfaces
 ---- SolidBSP ----
-         2583 split nodes
-         1231 solid leafs
-         1269 empty leafs
+         2588 split nodes
+         1233 solid leafs
+         1272 empty leafs
            84 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         8870 leaffaces
-         7982 nodefaces
+         8994 leaffaces
+         8130 nodefaces
 ---- Portalize ----
-         1353 vis leafs
-         1353 vis clusters
-         4250 vis portals
+         1356 vis leafs
+         1356 vis clusters
+         4302 vis portals
 ---- FillOutside ----
            43 outleafs
 ---- MergeAll ----
-         1097 mergefaces
+         1105 mergefaces
 ---- SolidBSP ----
-         2505 split nodes
-         1232 solid leafs
-         1190 empty leafs
+         2511 split nodes
+         1235 solid leafs
+         1193 empty leafs
            84 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7488 leaffaces
-         6554 nodefaces
+         7479 leaffaces
+         6589 nodefaces
 ---- Portalize ----
-         1274 vis leafs
-         1274 vis clusters
-         4104 vis portals
+         1277 vis leafs
+         1277 vis clusters
+         4146 vis portals
 ---- Tjunc ----
-         5455 world edges
-        19779 edge points
-         3988 edges added by tjunctions
+         5472 world edges
+        19881 edge points
+         4008 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -68,19 +68,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote dank.bsp
          2202 planes            44040
-         7490 vertexes          89880
-         2505 nodes             60120
-           24 texinfo             960
-         6554 faces            131080
-         8069 clipnodes         64552
-         1275 leafs             35700
-         7488 marksurfaces      14976
-        28967 surfedges        115868
-        14486 edges             57944
+         7536 vertexes          90432
+         2511 nodes             60264
+           27 texinfo            1080
+         6589 faces            131780
+         8065 clipnodes         64520
+         1278 leafs             35784
+         7479 marksurfaces      14958
+        29125 surfedges        116500
+        14565 edges             58260
             9 textures        1873617
               lightdata             0
               visdata               0
-              entdata            1113
+              entdata            2011
 
-5.940 seconds elapsed
-Peak memory usage: 42550072 (40.6M)
+8.849 seconds elapsed
+Peak memory usage: 42601090 (40.6M)

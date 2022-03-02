@@ -4,8 +4,8 @@ running with 8 threads
 testlevel = 4
 LoadBSPFile: 'dank.bsp'
 BSP is version 29
-  1274 leafs
-  4104 portals
+  1277 leafs
+  4146 portals
 State file is out of date, will be overwritten
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
@@ -1284,9 +1284,12 @@ WARNING: Leaf portals saw into leaf (1270)
 WARNING: Leaf portals saw into leaf (1271)
 WARNING: Leaf portals saw into leaf (1272)
 WARNING: Leaf portals saw into leaf (1273)
-average leafs visible: 978
+WARNING: Leaf portals saw into leaf (1274)
+WARNING: Leaf portals saw into leaf (1275)
+WARNING: Leaf portals saw into leaf (1276)
+average leafs visible: 971
 c_noclip: 0
 c_chains: 0
-visdatasize:196777  compressed from 203840
+visdatasize:196278  compressed from 204320
 Writing dank.bsp as BSP version 29
- 12.4 seconds elapsed
+ 26.2 seconds elapsed
